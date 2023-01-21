@@ -1,0 +1,17 @@
+/* .preloader{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background-color: rgb(234, 234, 234) url(databases/Co.gif) no-repeat center center;
+	top: 0;
+	left: 0;
+	z-index: 100;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+} */
+
+.card{
+	outline-color: blueviolet;
+}
